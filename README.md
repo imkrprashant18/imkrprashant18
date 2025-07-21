@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! I'm a passionate full-stack developer with over 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working at **Thulo Inc.** as a Full Stack Developer
+- 🔭 I’m currently working at **Tech Rida.** as a Full Stack Developer
 - 🌱 I’m currently diving deeper into **Next.js**, **Fastify**, and **Zustand**
 - 👯 I’m looking to collaborate on open-source projects and SaaS tools
 - 💬 Ask me about React, Node.js, Express, REST APIs, JWT, and Tailwind CSS
