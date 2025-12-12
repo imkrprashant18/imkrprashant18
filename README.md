@@ -1,6 +1,6 @@
 # Hi there, I'm [Prashant Mahato] 👋
 
-Welcome to my GitHub portfolio! I'm a passionate full-stack developer with over 2.5 years of experience building scalable web and mobile applications. I specialize in JavaScript ecosystems—React.js, React Native, Node.js—and thrive on solving real-world problems with clean, efficient, and user-friendly solutions.
+Welcome to my GitHub portfolio! I'm a passionate full-stack developer with over 3 years of experience building scalable web and mobile applications. I specialize in JavaScript ecosystems—React.js, React Native, Node.js—and thrive on solving real-world problems with clean, efficient, and user-friendly solutions.
 
 ## 🚀 About Me
 
@@ -21,7 +21,7 @@ Welcome to my GitHub portfolio! I'm a passionate full-stack developer with over 
 
 ## 💼 Work Experience
 
-**Full Stack Developer**  
+**Frontend Developer**  
 *Tech Rida — Lalitpur, Nepal*  
 _Jan 2025 – Present_  
 - Built cross-platform mobile apps using React Native and TypeScript  
@@ -37,7 +37,7 @@ _Feb 2024 – Dec 2024_
 
 **Frontend Developer**  
 *KSW TECHZONE — Lalitpur, Nepal*  
-_Feb 2023 – Dec 2023_  
+_Feb 2023 – Dec 2023_ 
 - Created dynamic dashboards using React and REST APIs  
 - Contributed to Agile-based team development  
 - Built reusable components using custom hooks
