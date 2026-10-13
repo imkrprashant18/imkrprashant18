@@ -21,26 +21,19 @@ Welcome to my GitHub portfolio! I'm a passionate full-stack developer with over 
 
 ## 💼 Work Experience
 
-**Frontend Developer**  
-*Tech Rida — Lalitpur, Nepal*  
-_Jan 2025 – Present_  
-- Built cross-platform mobile apps using React Native and TypeScript  
-- Integrated RESTful APIs for real-time order, merchant, and delivery systems  
-- Enhanced app UI/UX, improving user retention by 35%
+### 💼 Full Stack Developer | Tech Rida
+📍 Lalitpur, Nepal · April 2024 – Present
 
-**Frontend Developer**  
-*Aarawan Tech — Kathmandu, Nepal*  
-_Feb 2024 – Dec 2024_  
-- Developed responsive UIs using React.js and Tailwind CSS  
-- Integrated barcode scanning & POS for retail  
-- Boosted performance with lazy loading & code splitting
-
-**Frontend Developer**  
-*KSW TECHZONE — Lalitpur, Nepal*  
-_Feb 2023 – Dec 2023_ 
-- Created dynamic dashboards using React and REST APIs  
-- Contributed to Agile-based team development  
-- Built reusable components using custom hooks
+- 🚀 Building scalable web and cross-platform mobile applications using **React, React Native, TypeScript, and Node.js**.
+- 🔌 Designing and integrating RESTful APIs for real-time order processing, merchant management, and delivery workflows.
+- 🏗️ Developing reusable components and modular architectures with a strong focus on maintainability, scalability, and type safety.
+- ⚡ Optimizing application performance, rendering efficiency, and API interactions to deliver seamless user experiences.
+- 🔐 Implementing robust authentication, error handling, data validation, and reliable API integration patterns.
+- 📱 Enhancing mobile application UI/UX and user journeys, contributing to a **35% improvement in user retention**.
+- 🛠️ Debugging complex issues, resolving production bugs, and improving application stability and reliability.
+- 🤝 Collaborating with cross-functional teams on technical decisions, feature development, and end-to-end product delivery.
+- 🧩 Applying clean code principles, reusable abstractions, and modern TypeScript best practices to build maintainable software.
+- 📈 Contributing to continuous engineering improvements throughout the software development lifecycle.
 
 
 ## 📈 GitHub Stats
