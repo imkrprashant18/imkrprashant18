@@ -1,53 +1,67 @@
-# Hi there, I'm [Prashant Mahato] 👋
+# Hi there, I'm Prashant Mahato 👋
 
-Welcome to my GitHub portfolio! I'm a passionate full-stack developer with over 3 years of experience building scalable web and mobile applications. I specialize in JavaScript ecosystems—React.js, React Native, Node.js—and thrive on solving real-world problems with clean, efficient, and user-friendly solutions.
+Welcome to my GitHub portfolio! I'm a passionate Full Stack Developer with 3+ years of experience building scalable web and mobile applications. I specialize in the JavaScript and TypeScript ecosystem, creating maintainable software, intuitive user experiences, and reliable backend systems.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working at **Tech Rida.** as a Full Stack Developer
-- 🌱 I’m currently diving deeper into **Next.js**, **Fastify**, and **Zustand**
-- 👯 I’m looking to collaborate on open-source projects and SaaS tools
-- 💬 Ask me about React, Node.js, Express, REST APIs, JWT, and Tailwind CSS
-- 📫 How to reach me: **prashantmahato77@gmail.com**
+- 💼 Currently working as a **Full Stack Developer at Tofu Techinnovations**
+- 💻 Building modern web and cross-platform mobile applications
+- 🌱 Exploring **Next.js, Fastify, Zustand, system design, and scalable architectures**
+- 👯 Open to collaborating on open-source projects, SaaS products, and innovative ideas
+- 💬 Ask me about React, React Native, Next.js, Node.js, REST APIs, TypeScript, and Tailwind CSS
+- 📫 Email: **prashantmahato77@gmail.com**
 - 😄 Pronouns: He/Him
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-- **Languages**: JavaScript, TypeScript, SQL, HTML, CSS
-- **Frontend**: React.js, React Native, Next.js, Tailwind CSS
-- **Backend**: Node.js, Express.js, Fastify, REST APIs, JWT Auth
-- **Database**: MySQL, MongoDB
-- **Tools**: Zustand, Redux (basic), Docker (basic), Git, GitHub, Postman, Appwrite, Vercel
+**Languages**
+- JavaScript, TypeScript, SQL, HTML5, CSS3
+
+**Frontend Development**
+- React.js, Next.js, React Native, Tailwind CSS
+
+**Backend Development**
+- Node.js, Express.js, Fastify, RESTful APIs, JWT Authentication
+
+**Databases**
+- PostgreSQL, MySQL, MongoDB
+
+**State Management & Data Fetching**
+- Zustand, Redux, TanStack Query
+
+**Tools & Platforms**
+- Git, GitHub, Docker, Postman, Appwrite, Vercel
 
 ## 💼 Work Experience
 
-### 💼 Full Stack Developer | Tech Rida
-📍 Lalitpur, Nepal · April 2024 – Present
+### Full Stack Developer | Tofu Techinnovations
+📍 Nepal · April 2024 – Present
 
-- 🚀 Building scalable web and cross-platform mobile applications using **React, React Native, TypeScript, and Node.js**.
-- 🔌 Designing and integrating RESTful APIs for real-time order processing, merchant management, and delivery workflows.
-- 🏗️ Developing reusable components and modular architectures with a strong focus on maintainability, scalability, and type safety.
-- ⚡ Optimizing application performance, rendering efficiency, and API interactions to deliver seamless user experiences.
-- 🔐 Implementing robust authentication, error handling, data validation, and reliable API integration patterns.
-- 📱 Enhancing mobile application UI/UX and user journeys, contributing to a **35% improvement in user retention**.
-- 🛠️ Debugging complex issues, resolving production bugs, and improving application stability and reliability.
-- 🤝 Collaborating with cross-functional teams on technical decisions, feature development, and end-to-end product delivery.
-- 🧩 Applying clean code principles, reusable abstractions, and modern TypeScript best practices to build maintainable software.
-- 📈 Contributing to continuous engineering improvements throughout the software development lifecycle.
+- 🚀 Develop scalable web and cross-platform mobile applications using **React, React Native, TypeScript, and Node.js**.
+- 🔌 Integrate RESTful APIs to support order processing, merchant operations, and delivery management workflows.
+- 🏗️ Build reusable components and modular application architectures with a focus on maintainability, scalability, and type safety.
+- ⚡ Improve application performance, rendering efficiency, and API communication for responsive user experiences.
+- 🔐 Implement robust API integration patterns, data validation, error handling, and authentication workflows where required.
+- 📱 Enhance mobile application interfaces and user journeys, contributing to a **35% improvement in user retention**.
+- 🛠️ Troubleshoot technical issues, resolve bugs, and improve application stability and reliability.
+- 🤝 Collaborate with team members and stakeholders to deliver features aligned with product requirements.
+- 🧩 Apply clean code principles and TypeScript best practices to produce readable, maintainable, and reliable software.
 
+## 📊 GitHub Statistics
 
-## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imkrprashant18&show_icons=true&theme=radical&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imkrprashant18&show_icons=true&theme=radical)
+## 🏆 Most Used Languages
 
-## 🏆 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imkrprashant18&layout=compact&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imkrprashant18&layout=compact&theme=radical)
+## 🔗 Connect With Me
 
-## 📫 Connect With Me
+- 📧 **Email:** [prashantmahato77@gmail.com](mailto:prashantmahato77@gmail.com)
+- 💼 **LinkedIn:** [Prashant Mahato](https://www.linkedin.com/in/prashant-mahato-kushwanshi-348799321/)
+- 🐙 **GitHub:** [imkrprashant18](https://github.com/imkrprashant18)
+- 🌐 **Portfolio:** [prashantmahato.com.np](https://prashantmahato.com.np)
 
-- 📧 Email: **prashantmahato77@gmail.com**
-- 🔗 LinkedIn: [linkedin.com/in/prashant-mahato-348799321](https://www.linkedin.com/in/prashant-mahato-348799321/)
-- 🐙 GitHub: [github.com/imkrprashant18](https://github.com/imkrprashant18)
+---
 
-
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
